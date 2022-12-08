@@ -40,7 +40,7 @@ const product = {
 
   title:"Titulo",
   price:55.60,
-  description: "Esfero-Brayan Ganan",
+  description: "Andres Chipantasi",
   images:["asdfa"],
   categoryId:1
 }
@@ -52,7 +52,7 @@ ProductUpdate(){
 const product = {
 title: "Titulo",
 price:55.60,
-description:"Esfero Brayan Ganan actualizado",
+description:"Andres Chipantasi actualizado",
 images:["asdfa"],
 categoryId:1
 }
